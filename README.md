@@ -44,18 +44,12 @@ This project was developed using **PHP, HTML, CSS, JavaScript, and MySQL** as pa
 2. Clone this repository:
 git clone https://github.com/chetanp2309/Online-Duscussion-Forum-Site.git
 
-markdown
-Copy code
 3. Place the project folder inside:
 xampp/htdocs/
 
-markdown
-Copy code
 4. Open **phpMyAdmin** and import the SQL file from the `database` folder
 5. Configure database settings in:
 config.php
 
-markdown
-Copy code
 6. Visit in browser:
 http://localhost/Online-Duscussion-Forum-Site
